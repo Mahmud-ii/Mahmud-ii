@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on mern project
-- 📫 How to reach me...
 
 <!---
 Mahmud-ii/Mahmud-ii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
