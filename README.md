@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmud-ii
+- 👋 Hi, I’m Sayed Mahmud Shanto
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on mern project
