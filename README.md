@@ -3,7 +3,7 @@
 -  My core skills are Javascript, React, Redux, Next.Js, CSS, Tailwind, MUI, SASS, Firebase
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking for opportunities on Frontend project
-- Available for hiring
+- Available for hire
 
 <!---
 Mahmud-ii/Mahmud-ii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
